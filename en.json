@@ -162,6 +162,16 @@
         "singular": "Modpack",
         "plural": "Modpacks",
         "search": "Search modpacks..."
+      },
+      "plugin": {
+        "singular": "Plugin",
+        "plural": "Plugins",
+        "search": "Search plugin..."
+      },
+      "resourcepack": {
+        "singular": "Resource Pack",
+        "plural": "Resource Packs",
+        "search": "Search resource packs..."
       }
     },
     "sidebar_headings": {
